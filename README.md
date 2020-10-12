@@ -1,7 +1,7 @@
 # Big-Integer-in-Cpp
 
 ## Task:
-Create a large integer library, similar to what we have in Java as BigInteger. This library provides functonalites to store arbitrarily large integer and perform basic math operatons.
+Created a large Integer library, similar to what we have in Java as BigInteger. This library provides functonalites to store arbitrarily large integer and perform basic math operatons.
 
 
 ## Math Operatons implemented:
